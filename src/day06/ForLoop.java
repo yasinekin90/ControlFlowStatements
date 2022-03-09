@@ -52,9 +52,11 @@ public class ForLoop {
         System.out.println("Çarpım = "+carpim);*/
 
 
-        for (;;){
+/*        for (;;){
             System.out.println("Merhaba");
-        }
+        }*/
+
+
 
     }
 }
