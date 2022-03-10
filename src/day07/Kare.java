@@ -16,14 +16,14 @@ public class Kare {
         switch (secim){
             case 1:
                 int alan=kenar*kenar;
-                System.out.println("Alan = "+alan);
+                System.out.println("Alan 2= "+alan);
                 break;
             case 2:
                 int cevre=4*kenar;
-                System.out.println("Çevre = "+cevre);
+                System.out.println("Çevre2 = "+cevre);
                 break;
             default:
-                System.out.println("Yanlış seçim yaptınız.");
+                System.out.println("Yanlış seçim yaptınız!.");
                 break;
         }
     }
